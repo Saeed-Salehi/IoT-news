@@ -1,0 +1,433 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "World",
+  "home_page_url": "https://www.npr.org/sections/world/?utm_medium=JSONFeed&utm_campaign=world",
+  "feed_url": "https://feeds.npr.org/1004/feed.json",
+  "description": "NPR world news, international art and culture, world business and financial markets, world economy, and global trends in health, science and technology. Subscribe to the World Story of the Day podcast and RSS feed.",
+  "icon": "https://media.npr.org/images/stations/nprone_logos/npr.png",
+  "author": {
+    "name": "NPR",
+    "url": "https://www.npr.org?utm_medium=JSONFeed&utm_campaign=world",
+    "avatar": "https://media.npr.org/images/stations/nprone_logos/npr.png"
+  },
+  "items": [
+    {
+      "id": "1110679623",
+      "url": "https://www.npr.org/2022/07/10/1110679623/kharkiv-ukraine-trash-garbagemen?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "Garbage collectors in Kharkiv dodge mortars to pick up the trash",
+      "content_html": "<p>In Ukraine's second largest city, Kharkiv, Russian forces continue to pound neighborhoods in the north and east. But city garbage collectors are still picking up the trash.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1110679623' />",
+      "summary": "In Ukraine's second largest city, Kharkiv, Russian forces continue to pound neighborhoods in the north and east. But city garbage collectors are still picking up the trash.",
+      "image": "https://media.npr.org/assets/img/2022/07/09/garbagetruck1-2--c12ef7a2fb070289d4e10c9fc8766322c31f676c.jpg",
+      "date_published": "2022-07-10T08:02:13-04:00",
+      "date_modified": "2022-07-10T13:57:00-04:00",
+      "author": {
+        "name": "Jason Beaubien",
+        "url": "https://www.npr.org/people/2100218/jason-beaubien?utm_medium=JSONFeed&utm_campaign=world",
+        "avatar": "https://media.npr.org/assets/img/2020/03/19/mmorgan_200311_7869-crop_vert-0d6115f43a3aa00a8d9621e486a8fcc580f9178d.jpg"
+      },
+      "attachments": [
+        {
+          "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2022/07/20220710_wesun_garbage_collectors_in_kharkiv_dodge_mortars_to_pick_up_the_trash.mp3?orgId=1&d=215&p=1110723269&story=1110679623&t=progseg&e=1110723269&seg=6&ft=rss&f=1110723269",
+          "mime_type": "audio/mp3",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 215
+        },
+        {
+          "url": "https://ondemand.npr.org/npr-mp4/npr/wesun/2022/07/20220710_wesun_garbage_collectors_in_kharkiv_dodge_mortars_to_pick_up_the_trash.mp4?orgId=1&d=215&p=1110723269&story=1110679623&t=progseg&e=1110723269&seg=6&ft=rss&f=1110723269",
+          "mime_type": "audio/aac",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 215
+        },
+        {
+          "url": "https://ondemandhls.npr.org/nprhls//npr/wesun/2022/07/20220710_wesun_garbage_collectors_in_kharkiv_dodge_mortars_to_pick_up_the_trash/master.m3u8?orgId=1&d=215&p=1110723269&story=1110679623&t=progseg&e=1110723269&seg=6&ft=rss&f=1110723269",
+          "mime_type": "audio/m3u8",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 215
+        }
+      ]
+    },
+    {
+      "id": "1110722056",
+      "url": "https://www.npr.org/2022/07/10/1110722056/uk-prime-minister-boris-johnson-race-ben-wallace?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "The UK defense minister rules himself out of the race to succeed Boris Johnson",
+      "content_html": "<p>Ben Wallace had been tipped to be a frontrunner in the Conservative Party's leadership race \u2014 and to serve as the country's prime minister.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1110722056' />",
+      "summary": "Ben Wallace had been tipped to be a frontrunner in the Conservative Party's leadership race \u2014 and to serve as the country's prime minister.",
+      "image": "https://media.npr.org/assets/img/2022/07/10/ap22187542618424-b405e815b71bafbeca59f590e7364a89f04be30e.jpg",
+      "date_published": "2022-07-10T06:47:49-04:00",
+      "date_modified": "2022-07-10T09:49:00-04:00",
+      "author": { "name": "The Associated Press" },
+      "tags": ["wallace", "conservative party", "prime minister", "Johnson"]
+    },
+    {
+      "id": "1110720566",
+      "url": "https://www.npr.org/2022/07/10/1110720566/japan-election-shinzo-abe-assassination?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "Shinzo Abe's party scores a major victory in Japan's election, early results show",
+      "content_html": "<p>The victory is possibly propelled by what is seen as a wave of sympathy votes in a country still reeling from the shock of the former prime minister's assassination.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1110720566' />",
+      "summary": "The victory is possibly propelled by what is seen as a wave of sympathy votes in a country still reeling from the shock of the former prime minister's assassination.",
+      "image": "https://media.npr.org/assets/img/2022/07/10/ap22191063861592-58b656ce0079478fcfd688a1b8fb70f22b9a3e20.jpg",
+      "date_published": "2022-07-10T06:10:43-04:00",
+      "date_modified": "2022-07-10T12:33:00-04:00",
+      "author": { "name": "The Associated Press" },
+      "tags": ["abe", "prime minister", "Japan"]
+    },
+    {
+      "id": "1110719305",
+      "url": "https://www.npr.org/2022/07/10/1110719305/ukraine-donetsk-missile-strike-15-dead-apartment-building?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "Scores of people may be trapped after a rocket hit an apartment in Ukraine",
+      "content_html": "<p>A Russian rocket attack hit the town of Chasiv Yar, destroying a five-story apartment building and killing at least 15 people.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1110719305' />",
+      "summary": "A Russian rocket attack hit the town of Chasiv Yar, destroying a five-story apartment building and killing at least 15 people.",
+      "image": "https://media.npr.org/assets/img/2022/07/10/ap22191443455902_custom-c044567075859850fe3b86d79bee0937ace334e3.jpg",
+      "date_published": "2022-07-10T06:01:02-04:00",
+      "date_modified": "2022-07-10T11:56:00-04:00",
+      "author": { "name": "The Associated Press" },
+      "tags": ["russian", "Ukraine", "Russia"]
+    },
+    {
+      "id": "1110719202",
+      "url": "https://www.npr.org/2022/07/10/1110719202/south-africa-soweto-shooting-15-dead?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "A group of people opened fire at a bar in South Africa, killing 15",
+      "content_html": "<p>A mass shooting at a tavern in Johannesburg's Soweto township has killed at least 15 people and left others in critical condition.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1110719202' />",
+      "summary": "A mass shooting at a tavern in Johannesburg's Soweto township has killed at least 15 people and left others in critical condition.",
+      "image": "https://media.npr.org/assets/img/2022/07/10/ap22191386493357_custom-1017c0e7371e54294550e3bbc5f16367f78671e1.jpg",
+      "date_published": "2022-07-10T04:58:58-04:00",
+      "date_modified": "2022-07-10T12:41:00-04:00",
+      "author": { "name": "The Associated Press" },
+      "tags": ["Johannesburg", "mass shooting", "South Africa"]
+    },
+    {
+      "id": "1110600352",
+      "url": "https://www.npr.org/2022/07/09/1110600352/shinzo-abe-killed-legacy-japan?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "Shinzo Abe's policies take on renewed significance for Japan",
+      "content_html": "<p>The assassination of the former prime minister has prompted the world to reflect on his policies and what they actually accomplished.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1110600352' />",
+      "summary": "The assassination of the former prime minister has prompted the world to reflect on his policies and what they actually accomplished.",
+      "image": "https://media.npr.org/assets/img/2022/07/08/gettyimages-1228534592-673c3ba33a449ada60ead5e8452f06d503e65598.jpg",
+      "date_published": "2022-07-09T19:01:40-04:00",
+      "author": {
+        "name": "Jackie Northam",
+        "url": "https://www.npr.org/people/2100981/jackie-northam?utm_medium=JSONFeed&utm_campaign=world",
+        "avatar": "https://media.npr.org/assets/img/2018/04/18/npr_32962668_sq-a8242d56b5fdf1563962fe9914678ec29488749f.jpg"
+      }
+    },
+    {
+      "id": "1110694356",
+      "url": "https://www.npr.org/2022/07/09/1110694356/angolas-jose-eduardo-dos-santos-once-one-of-africas-longest-serving-rulers-dies?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "Angola's Jos\u00e9 Eduardo dos Santos, once one of Africa's longest-serving rulers, dies",
+      "content_html": "<p>Dos Santos died at 79 after a long illness. Under his watch, Angola became sub-Saharan Africa's second-largest oil producer \u2014 but the wealth didn't reach the people. </p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1110694356' />",
+      "summary": "Dos Santos died at 79 after a long illness. Under his watch, Angola became sub-Saharan Africa's second-largest oil producer \u2014 but the wealth didn't reach the people.",
+      "image": "https://media.npr.org/assets/img/2022/07/09/ap22188528084350_custom-f977340998fa3bde43940b654fe767c97d5d2ebf.jpg",
+      "date_published": "2022-07-09T15:11:57-04:00",
+      "author": { "name": "The Associated Press" }
+    },
+    {
+      "id": "1110693235",
+      "url": "https://www.npr.org/2022/07/09/1110693235/luis-echeverria-mexico-dirty-war-obit?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "Luis Echeverria, a Mexican leader who was blamed for massacres, dies at age 100",
+      "content_html": "<p>The former president, blamed for some of Mexico's worst political killings of the 20th century, has died at the age of 100, current President Andr\u00e9s Manuel L\u00f3pez Obrador confirmed.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1110693235' />",
+      "summary": "The former president, blamed for some of Mexico's worst political killings of the 20th century, has died at the age of 100, current President Andr\u00e9s Manuel L\u00f3pez Obrador confirmed.",
+      "image": "https://media.npr.org/assets/img/2022/07/09/ap22190540781801_custom-8deee504d56f2234b2b584183063e0115fe83d76.jpg",
+      "date_published": "2022-07-09T14:50:58-04:00",
+      "author": { "name": "The Associated Press" },
+      "tags": ["Mexico"]
+    },
+    {
+      "id": "1110686482",
+      "url": "https://www.npr.org/2022/07/09/1110686482/wimbledon-elena-rybakina-kazakhstan-women-final-winner?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "Kazakhstan's Elena Rybakina wins her first Grand Slam title at Wimbledon",
+      "content_html": "<p>The 23-year-old is bringing her adopted country its first singles trophy at a major tournament.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1110686482' />",
+      "summary": "The 23-year-old is bringing her adopted country its first singles trophy at a major tournament.",
+      "image": "https://media.npr.org/assets/img/2022/07/09/ap22190549351411_custom-f3cd76e4869e64cdb35bc4c2e16a05ce1b19d08d.jpg",
+      "date_published": "2022-07-09T12:56:44-04:00",
+      "date_modified": "2022-07-09T15:28:00-04:00",
+      "author": { "name": "The Associated Press" },
+      "tags": ["Kazakhstan", "tennis", "Wimbledon"]
+    },
+    {
+      "id": "1110674313",
+      "url": "https://www.npr.org/2022/07/09/1110674313/japan-shinzo-abe-assassination-what-we-know?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "What we know so far about former Japanese Prime Minister Shinzo Abe's assassination",
+      "content_html": "<p>Tetsuya Yamagami, the unemployed 41-year-old who confessed to assassinating Shinzo Abe, reportedly planned the attack for months. He told police his motivations were not political. </p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1110674313' />",
+      "summary": "Tetsuya Yamagami, the unemployed 41-year-old who confessed to assassinating Shinzo Abe, reportedly planned the attack for months. He told police his motivations were not political.",
+      "image": "https://media.npr.org/assets/img/2022/07/09/ap20239037742671_custom-632f7dc9360fb77381f6eef223df90d728e4f25a.jpg",
+      "date_published": "2022-07-09T12:04:25-04:00",
+      "date_modified": "2022-07-09T22:07:00-04:00",
+      "author": {
+        "name": "Shauneen Miranda",
+        "url": "https://www.npr.org/people/1103325276/shauneen-miranda?utm_medium=JSONFeed&utm_campaign=world"
+      },
+      "tags": ["Shinzo Abe assassination", "gun violence", "Japan"]
+    },
+    {
+      "id": "1110672143",
+      "url": "https://www.npr.org/2022/07/09/1110672143/us-china-relations-russia-blinken-ukraine?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "U.S. tells China that its support for Russia in Ukraine complicates relations",
+      "content_html": "<p>China's support for Russia's war in Ukraine is complicating U.S.-Chinese relations at an already difficult time, U.S. Secretary of State Antony Blinken told his Chinese counterpart.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1110672143' />",
+      "summary": "China's support for Russia's war in Ukraine is complicating U.S.-Chinese relations at an already difficult time, U.S. Secretary of State Antony Blinken told his Chinese counterpart.",
+      "image": "https://media.npr.org/assets/img/2022/07/09/ap22190071144095_custom-efd3a4307a72f9a711f29bdd2cd14b02fa5f7645.jpg",
+      "date_published": "2022-07-09T09:32:59-04:00",
+      "author": { "name": "The Associated Press" },
+      "tags": ["Antony Blinken", "China", "Ukraine", "Russia"]
+    },
+    {
+      "id": "1103380792",
+      "url": "https://www.npr.org/sections/goatsandsoda/2022/07/09/1103380792/photos-south-africas-train-of-hope-is-a-godsend-for-millions-but-new-threats-loo?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "PHOTOS: South Africa's 'train of hope' is a godsend for millions. But new threats loom",
+      "content_html": "<p>Dubbed the \"train of hope,\" the Phelophepa has brought health care to millions of South Africans. But it's facing an unprecedented spree of theft and vandalism on the country's railways.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1103380792' />",
+      "summary": "Dubbed the \"train of hope,\" the Phelophepa has brought health care to millions of South Africans. But it's facing an unprecedented spree of theft and vandalism on the country's railways.",
+      "image": "https://media.npr.org/assets/img/2022/07/01/dsc_0575_custom-a3e4808bc53447c4ba6f5d16297544034ccbfb82.jpg",
+      "date_published": "2022-07-09T07:00:52-04:00",
+      "date_modified": "2022-07-09T08:04:00-04:00",
+      "author": { "name": "Tommy Trenchard" },
+      "tags": ["cape town", "Health Care", "South Africa"]
+    },
+    {
+      "id": "1108967278",
+      "url": "https://www.npr.org/2022/07/09/1108967278/canada-gun-control-us-guns-trafficking?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "As gun violence rises in Canada, weapons from the U.S. complicate gun control efforts",
+      "content_html": "<p>A bill before Canada's Parliament aims to stop the spread of handguns \u2014 but one of the most difficult challenges for Canada is the guns being smuggled over the border from the U.S.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1108967278' />",
+      "summary": "A bill before Canada's Parliament aims to stop the spread of handguns \u2014 but one of the most difficult challenges for Canada is the guns being smuggled over the border from the U.S.",
+      "image": "https://media.npr.org/assets/img/2022/07/01/2022-05-30t212151z_1273636856_rc2xhu9y4zy2_rtrmadp_3_canada-politics-guns-4d0b3c4f06464534a15925045be5020fa4625cec.jpg",
+      "date_published": "2022-07-09T07:00:22-04:00",
+      "author": {
+        "name": "Emma Jacobs",
+        "url": "https://www.npr.org/people/828873480/emma-jacobs?utm_medium=JSONFeed&utm_campaign=world"
+      },
+      "tags": [
+        "weapons trafficking",
+        "firearm laws",
+        "smuggling",
+        "shooting",
+        "weapons",
+        "firearms",
+        "gun laws",
+        "shootings",
+        "gun trafficking",
+        "gun control",
+        "gun violence",
+        "Canada",
+        "crime",
+        "Guns"
+      ],
+      "attachments": [
+        {
+          "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/06/20220613_atc_canada_guns.mp3?orgId=1&d=235&story=1108967278&ft=rss",
+          "mime_type": "audio/mp3",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 235
+        },
+        {
+          "url": "https://ondemand.npr.org/npr-mp4/npr/atc/2022/06/20220613_atc_canada_guns.mp4?orgId=1&d=235&story=1108967278&ft=rss",
+          "mime_type": "audio/aac",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 235
+        },
+        {
+          "url": "https://ondemandhls.npr.org/nprhls//npr/atc/2022/06/20220613_atc_canada_guns/master.m3u8?orgId=1&d=235&story=1108967278&ft=rss",
+          "mime_type": "audio/m3u8",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 235
+        }
+      ]
+    },
+    {
+      "id": "1110580296",
+      "url": "https://www.npr.org/2022/07/09/1110580296/saudi-arabia-travel-rules-hajj-frustrated-pilgrimage?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "This Eid al-Adha, the new rules for hajj have left many frustrated",
+      "content_html": "<p>The Saudi Arabian government's new rules for the pilgrimage left many Muslims frustrated and disappointed. Some couldn't make the journey, and others were shocked by the conditions upon arrival.  </p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1110580296' />",
+      "summary": "The Saudi Arabian government's new rules for the pilgrimage left many Muslims frustrated and disappointed. Some couldn't make the journey, and others were shocked by the conditions upon arrival.",
+      "image": "https://media.npr.org/assets/img/2022/07/08/img_2314-63ac2eff91fa8d69a833fd4767f9dbb6adefeebb.jpg",
+      "date_published": "2022-07-09T05:30:52-04:00",
+      "date_modified": "2022-07-09T09:51:00-04:00",
+      "author": {
+        "name": "Dustin Jones",
+        "url": "https://www.npr.org/people/963390115/dustin-jones?utm_medium=JSONFeed&utm_campaign=world"
+      },
+      "tags": ["Hajj", "Saudi Arabia"]
+    },
+    {
+      "id": "1110663578",
+      "url": "https://www.npr.org/2022/07/09/1110663578/sri-lanka-protest-president-residence-economic-crisis?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "Sri Lanka's opposition parties hope to install a new government amid the turmoil",
+      "content_html": "<p>A lawmaker said all opposition parties combined could easily muster the 113 members needed to show a majority in Parliament, at which point they will request a new government.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1110663578' />",
+      "summary": "A lawmaker said all opposition parties combined could easily muster the 113 members needed to show a majority in Parliament, at which point they will request a new government.",
+      "image": "https://media.npr.org/assets/img/2022/07/10/ap22191326819282-8daed7742b87ff13d33b414f32bebf1f3a9c949e.jpg",
+      "date_published": "2022-07-09T05:25:00-04:00",
+      "date_modified": "2022-07-10T12:41:00-04:00",
+      "author": { "name": "The Associated Press" },
+      "tags": ["Sri Lanka"]
+    },
+    {
+      "id": "1110109088",
+      "url": "https://www.npr.org/2022/07/09/1110109088/biden-is-building-on-the-abraham-accords-part-of-trumps-legacy-in-the-middle-eas?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "Biden is building on the Abraham Accords, part of Trump's legacy in the Middle East",
+      "content_html": "<p>Joe Biden has jettisoned most of his predecessor's foreign policy. But not the Abraham Accords. Those agreements between Israel and its neighbors are in the spotlight as Biden heads to the Mideast. </p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1110109088' />",
+      "summary": "Joe Biden has jettisoned most of his predecessor's foreign policy. But not the Abraham Accords. Those agreements between Israel and its neighbors are in the spotlight as Biden heads to the Mideast.",
+      "image": "https://media.npr.org/assets/img/2022/07/06/ap21239604706904-6a360fbe4ed6229bb7a6823b94f4cc880561a9b2.jpg",
+      "date_published": "2022-07-09T05:00:22-04:00",
+      "author": {
+        "name": "Asma Khalid",
+        "url": "https://www.npr.org/people/459062304/asma-khalid?utm_medium=JSONFeed&utm_campaign=world",
+        "avatar": "https://media.npr.org/assets/img/2016/02/24/asma-khalid_sq-a036860516e82c7a0a5d7ef9f9786aa7f9e964be.jpg"
+      },
+      "tags": [
+        "Abraham Accords",
+        "Donald Trump",
+        "Saudi Arabia",
+        "Joe Biden",
+        "Israel"
+      ]
+    },
+    {
+      "id": "1110661959",
+      "url": "https://www.npr.org/2022/07/09/1110661959/united-nationas-aid-syria?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "UN fails to extend aid deliveries to Syrian rebel-held area",
+      "content_html": "<p>The U.N. Security Council failed in two rival votes Friday to extend humanitarian aid deliveries from Turkey to 4.1 million Syrians in the rebel-held northwest.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1110661959' />",
+      "summary": "The U.N. Security Council failed in two rival votes Friday to extend humanitarian aid deliveries from Turkey to 4.1 million Syrians in the rebel-held northwest.",
+      "image": "https://media.npr.org/assets/img/2022/07/09/ap22187545656414_custom-381d284202ceaa3834d960b2ca8936b36a3ac33c.jpg",
+      "date_published": "2022-07-09T04:48:00-04:00",
+      "date_modified": "2022-07-09T04:55:00-04:00",
+      "author": { "name": "The Associated Press" }
+    },
+    {
+      "id": "1110645654",
+      "url": "https://www.npr.org/2022/07/08/1110645654/ukrainians-have-a-special-place-in-their-hearts-for-boris-johnson?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "Ukrainians have a special place in their hearts for Boris Johnson",
+      "content_html": "<p>While Britons might be happy to see their prime minister go, Ukrainians hold him in higher regard.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1110645654' />",
+      "summary": "While Britons might be happy to see their prime minister go, Ukrainians hold him in higher regard.",
+      "image": "https://media.npr.org/assets/img/2022/07/08/ap22189551168031-1--1b825be04379450ac691ecd46e7277ec6dd75a9d.jpg",
+      "date_published": "2022-07-08T21:28:00-04:00",
+      "date_modified": "2022-07-09T09:14:00-04:00",
+      "author": {
+        "name": "Eleanor Beardsley",
+        "url": "https://www.npr.org/people/17796129/eleanor-beardsley?utm_medium=JSONFeed&utm_campaign=world",
+        "avatar": "https://media.npr.org/documents/about/people/bios/biophotos/EBeardsley_custom-7430afe6ac5463f4cb34465b1d9a44878726a3bd.jpg"
+      },
+      "tags": ["Boris Johnson", "Ukraine"]
+    },
+    {
+      "id": "1110368857",
+      "url": "https://www.npr.org/sections/goatsandsoda/2022/07/08/1110368857/coronavirus-faq-i-took-a-trip-and-caught-covid-what-should-i-do-when-can-i-go-ho?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "Coronavirus FAQ: I took a trip and caught COVID. What should I do? When can I go home?",
+      "content_html": "<p>As summer travel surges, so does COVID. Experts share advice on how to prepare ahead of time in case you are infected on a vacation or visit \u2014 and what to do if you get that dreaded positive test.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1110368857' />",
+      "summary": "As summer travel surges, so does COVID. Experts share advice on how to prepare ahead of time in case you are infected on a vacation or visit \u2014 and what to do if you get that dreaded positive test.",
+      "image": "https://media.npr.org/assets/img/2022/07/07/vacation_custom-02e7be62295f22f6e857b09903c8d35e2a38f672.jpg",
+      "date_published": "2022-07-08T18:34:43-04:00",
+      "author": {
+        "name": "Marc Silver",
+        "url": "https://www.npr.org/people/348777295/marc-silver?utm_medium=JSONFeed&utm_campaign=world",
+        "avatar": "https://media.npr.org/assets/img/2022/03/01/marc_silver_vert-06307dd35a058d9643fb2231c02cd1702900c59f.jpg"
+      },
+      "tags": ["coronavirus FAQ", "coronavirus faqs"]
+    },
+    {
+      "id": "1110538891",
+      "url": "https://www.npr.org/2022/07/08/1110538891/shinzo-abe-former-prime-minister-japan-killed?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "Shinzo Abe, killed at 67, leaves a storied legacy as Japan's longest-serving premier",
+      "content_html": "<p>The influential prime minister worked to revive the economy with his trademark \"Abenomics\" and rebuild Japan's role on the global stage. His assassination stunned a nation where gun violence is rare.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1110538891' />",
+      "summary": "The influential prime minister worked to revive the economy with his trademark \"Abenomics\" and rebuild Japan's role on the global stage. His assassination stunned a nation where gun violence is rare.",
+      "image": "https://media.npr.org/assets/img/2022/07/08/gettyimages-1128616097_custom-3131ad7a75a124dc7f99ee87724e540b4a9fbd19.jpg",
+      "date_published": "2022-07-08T18:23:04-04:00",
+      "date_modified": "2022-07-08T20:21:00-04:00",
+      "author": {
+        "name": "Anthony Kuhn",
+        "url": "https://www.npr.org/people/4458700/anthony-kuhn?utm_medium=JSONFeed&utm_campaign=world",
+        "avatar": "https://media.npr.org/assets/img/2018/06/27/akuhn_vert-c7a12736900b5b32693450a3512de61e1d390396.jpg"
+      },
+      "tags": [
+        "Shinzo Abe assassination",
+        "prime minister shinzo abe",
+        "Shinzo Abe",
+        "Japan"
+      ],
+      "attachments": [
+        {
+          "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220708_atc_abe_obit.mp3?orgId=1&d=256&p=1110562057&story=1110538891&t=progseg&e=1110562057&seg=10&ft=rss&f=1110562057",
+          "mime_type": "audio/mp3",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 256
+        },
+        {
+          "url": "https://ondemand.npr.org/npr-mp4/npr/atc/2022/07/20220708_atc_abe_obit.mp4?orgId=1&d=256&p=1110562057&story=1110538891&t=progseg&e=1110562057&seg=10&ft=rss&f=1110562057",
+          "mime_type": "audio/aac",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 256
+        },
+        {
+          "url": "https://ondemandhls.npr.org/nprhls//npr/atc/2022/07/20220708_atc_abe_obit/master.m3u8?orgId=1&d=256&p=1110562057&story=1110538891&t=progseg&e=1110562057&seg=10&ft=rss&f=1110562057",
+          "mime_type": "audio/m3u8",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 256
+        }
+      ]
+    },
+    {
+      "id": "1110496036",
+      "url": "https://www.npr.org/2022/07/08/1110496036/tasman-keith-didnt-come-here-to-point-fingers?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "Tasman Keith didn't come here to point fingers",
+      "content_html": "<p>The First Nations rapper comes from \"a place of understanding [that] at the end of the day everybody is human and we all have a lack of knowledge that we can expand on.\" His debut album is out today.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1110496036' />",
+      "summary": "The First Nations rapper comes from \"a place of understanding [that] at the end of the day everybody is human and we all have a lack of knowledge that we can expand on.\" His debut album is out today.",
+      "image": "https://media.npr.org/assets/img/2022/07/08/tasman-keith-by-jordan-munns-1-_wide-77a75daeb9254aeba139241480289cbe18855110.jpeg",
+      "date_published": "2022-07-08T16:31:00-04:00",
+      "date_modified": "2022-07-08T20:21:00-04:00",
+      "author": {
+        "name": "Ari Shapiro",
+        "url": "https://www.npr.org/people/2101154/ari-shapiro?utm_medium=JSONFeed&utm_campaign=world",
+        "avatar": "https://media.npr.org/assets/img/2016/01/06/ari_shapiro_2015_vert-fd7f37b21bb9144710e15198bbfa98acc5933281.jpg"
+      },
+      "attachments": [
+        {
+          "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220708_atc_web_music_-_tasman_keith.mp3?orgId=1&d=475&p=1110562057&story=1110496036&t=progseg&e=1110562057&seg=8&ft=rss&f=1110562057",
+          "mime_type": "audio/mp3",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 475
+        },
+        {
+          "url": "https://ondemand.npr.org/npr-mp4/npr/atc/2022/07/20220708_atc_web_music_-_tasman_keith.mp4?orgId=1&d=475&p=1110562057&story=1110496036&t=progseg&e=1110562057&seg=8&ft=rss&f=1110562057",
+          "mime_type": "audio/aac",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 475
+        },
+        {
+          "url": "https://ondemandhls.npr.org/nprhls//npr/atc/2022/07/20220708_atc_web_music_-_tasman_keith/master.m3u8?orgId=1&d=475&p=1110562057&story=1110496036&t=progseg&e=1110562057&seg=8&ft=rss&f=1110562057",
+          "mime_type": "audio/m3u8",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 475
+        }
+      ]
+    },
+    {
+      "id": "1110577369",
+      "url": "https://www.npr.org/2022/07/08/1110577369/ukraine-war-chernivitsi-lito-cafe?utm_medium=JSONFeed&utm_campaign=world",
+      "title": "There's nowhere in Ukraine to hide from the war. This caf\u00e9 tries to help people cope",
+      "content_html": "<p>In western Ukraine, far from the front lines, Ruslana Mikhaluk hires a clown to give children a night of laughter and fun. She doesn't plan to make a profit this year at her seasonal caf\u00e9.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1110577369' />",
+      "summary": "In western Ukraine, far from the front lines, Ruslana Mikhaluk hires a clown to give children a night of laughter and fun. She doesn't plan to make a profit this year at her seasonal caf\u00e9.",
+      "image": "https://media.npr.org/assets/img/2022/07/08/img_3310_slide-905bcd1b4203936a6871ebe884b6e050a3fbbb7b.jpg",
+      "date_published": "2022-07-08T16:17:14-04:00",
+      "date_modified": "2022-07-10T07:25:00-04:00",
+      "author": {
+        "name": "Eleanor Beardsley",
+        "url": "https://www.npr.org/people/17796129/eleanor-beardsley?utm_medium=JSONFeed&utm_campaign=world",
+        "avatar": "https://media.npr.org/documents/about/people/bios/biophotos/EBeardsley_custom-7430afe6ac5463f4cb34465b1d9a44878726a3bd.jpg"
+      },
+      "attachments": [
+        {
+          "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220708_atc_one_mans_efforts_to_lighten_the_spirits_of_displaced_children_in_western_ukraine.mp3?orgId=1&d=214&p=1110562057&story=1110577369&t=progseg&e=1110562057&seg=4&ft=rss&f=1110562057",
+          "mime_type": "audio/mp3",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 214
+        },
+        {
+          "url": "https://ondemand.npr.org/npr-mp4/npr/atc/2022/07/20220708_atc_one_mans_efforts_to_lighten_the_spirits_of_displaced_children_in_western_ukraine.mp4?orgId=1&d=214&p=1110562057&story=1110577369&t=progseg&e=1110562057&seg=4&ft=rss&f=1110562057",
+          "mime_type": "audio/aac",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 214
+        },
+        {
+          "url": "https://ondemandhls.npr.org/nprhls//npr/atc/2022/07/20220708_atc_one_mans_efforts_to_lighten_the_spirits_of_displaced_children_in_western_ukraine/master.m3u8?orgId=1&d=214&p=1110562057&story=1110577369&t=progseg&e=1110562057&seg=4&ft=rss&f=1110562057",
+          "mime_type": "audio/m3u8",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 214
+        }
+      ]
+    }
+  ]
+}
