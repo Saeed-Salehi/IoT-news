@@ -20,6 +20,9 @@ export default function CommentForm(props) {
       },
     ];
     localStorage.setItem("1111", JSON.stringify(new_comments));
+    if (props.changeEditing) {
+      props.changeEditing()
+    }
     props.changeComCounter();
     axios
       .post("example.com", {})

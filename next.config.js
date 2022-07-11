@@ -5,6 +5,15 @@ const nextConfig = {
     domains: ["media.npr.org"],
     formats: ["image/avif", "image/webp"],
   },
+  async redirects() {
+    return [
+      {
+        source: "/saved",
+        destination: "/saved/favorites",
+        permanent: true,
+      },
+    ];
+  },
 };
 
 module.exports = nextConfig;

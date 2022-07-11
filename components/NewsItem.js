@@ -13,14 +13,13 @@ export default function NewsItem(props) {
   let all_likes = JSON.parse(localStorage.getItem("2222"));
   let liked_now = all_likes.find((it) => it.id === item.id);
   if (typeof liked_now !== "undefined") {
-    final_like = true
+    final_like = true;
   } else {
-    final_like = false
+    final_like = false;
   }
 
   let all_comments = JSON.parse(localStorage.getItem("1111"));
   let this_comments = all_comments.filter((it) => it.newsId === item.id);
-  console.log(this_comments);
   const [comments, setComments] = useState(this_comments);
   const [liked, setLiked] = useState(final_like);
   const [comCounter, setComCounter] = useState(0);
@@ -32,19 +31,30 @@ export default function NewsItem(props) {
     setComments(this_comments);
   }, [comCounter, item]);
 
+  useEffect(() => {
+    setLiked(final_like);
+  }, [item, liked]);
+
   let likeHandler = () => {
+    let all_likes = JSON.parse(localStorage.getItem("2222"));
     if (liked) {
-      localStorage.setItem("1111", JSON.stringify(new_comments));
+      let new_likes = all_likes.filter((it) => it.id !== item.id);
+      localStorage.setItem("2222", JSON.stringify(new_likes));
+      setLiked(false);
     } else {
-      
+      let newer_likes = [...all_likes, item];
+      localStorage.setItem("2222", JSON.stringify(newer_likes));
+      setLiked(true);
     }
-  }
+  };
   return (
     <div>
       <div className="ty-flex ty-space-between align-items-center">
         <h2 className="lh-28">{item.title}</h2>
         <Button layout="clear" color="danger" onClick={likeHandler}>
-          <i className="ty-icon ty-icon-heart-outline fs-26" />
+          <i
+            className={`ty-icon fs-26 ty-icon-heart${liked ? "" : "-outline"}`}
+          />
         </Button>
       </div>
       <div className={`mt-4 ${classes.ratio_}`}>
@@ -78,10 +88,17 @@ export default function NewsItem(props) {
         dangerouslySetInnerHTML={{ __html: item.content_html }}
       />
       <CommentForm newsItem={item} changeComCounter={changeComCounter} />
-      <div className="my-4 ty-col-12 mx-auto">
+      <div className="my-4 ty-col-16 mx-auto">
         {comments.map((item, index) => (
-          <div className="my-3 border-radius-15 ty-border" key={index}>
-            <CommentItem CItem={item} />
+          <div
+            className="my-3 border-radius-15 ty-border full-width"
+            key={index}
+          >
+            <CommentItem
+              CItem={item}
+              newsItem={item}
+              changeComCounter={changeComCounter}
+            />
           </div>
         ))}
       </div>

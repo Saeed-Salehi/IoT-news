@@ -15,13 +15,11 @@ export default function News(props) {
           <div className="ty-col-5 ty-border-right pr-2">
             {news.map((item, index) => (
               <div
-                className="my-3 ty-flex align-items-center ty-border-top ty-border-bottom py-3"
+                className="my-3 ty-flex align-items-center ty-border-top ty-border-bottom py-3 cursor-pointer"
                 key={index}
                 onClick={() => setItem(item)}
               >
-                <p className="my-0 fs-14 fw-500 lh-24 pr-1">
-                  {item.title}
-                </p>
+                <p className="my-0 fs-14 fw-500 lh-24 pr-1">{item.title}</p>
                 <i className="ty-icon ty-icon-arrow-right-outline fs-18" />
               </div>
             ))}

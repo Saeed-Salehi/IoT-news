@@ -36,6 +36,14 @@ a {
   direction: rtl;
 }
 
+.flex-coloumn{
+  flex-direction: column;
+}
+
+.cursor-pointer{
+  cursor: pointer;
+}
+
 @for $lh from 0 to 40 {
   .lh-#{$lh} {
     line-height: #{$lh}px !important;
